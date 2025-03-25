@@ -1,0 +1,74 @@
+-- MainMenuBarVehicleLeaveButton
+--/run MainMenuBarVehicleLeaveButton:SetPoint("TOPLEFT",StanceBar,"TOPRIGHT",10,0)
+
+-- Other Stuff
+local zTable, vZMS_Motes = {}, 188957
+local vZMS_Synthesis = {
+   [189369] = {moteCost=300,glimmerID=189157,latticeID=189146,}, -- Archetype of Animation
+   [189380] = {moteCost=300,glimmerID=189158,latticeID=189155,}, -- Archetype of Cunning
+   [187795] = {moteCost=300,glimmerID=189159,latticeID=189156,}, -- Archetype of Discovery
+   [187713] = {moteCost=300,glimmerID=189160,latticeID=189153,}, -- Archetype of Focus
+   [189383] = {moteCost=300,glimmerID=189161,latticeID=189154,}, -- Archetype of Malice
+   [187928] = {moteCost=300,glimmerID=189162,latticeID=187634,}, -- Archetype of Metamorphosis
+   [187803] = {moteCost=300,glimmerID=189163,latticeID=189149,}, -- Archetype of Motion
+   [189375] = {moteCost=300,glimmerID=189164,latticeID=189147,}, -- Archetype of Multiplicity
+   [189381] = {moteCost=300,glimmerID=189165,latticeID=189152,}, -- Archetype of Predation
+   [189371] = {moteCost=300,glimmerID=189166,latticeID=187636,}, -- Archetype of Renewal
+   [189367] = {moteCost=300,glimmerID=189167,latticeID=189148,}, -- Archetype of Satisfaction
+   [189382] = {moteCost=300,glimmerID=189168,latticeID=187633,}, -- Archetype of Serenity
+   [189364] = {moteCost=300,glimmerID=189169,latticeID=189151,}, -- Archetype of Survival
+   [189377] = {moteCost=300,glimmerID=189170,latticeID=189145,}, -- Archetype of Vigilance
+   [189363] = {moteCost=250,glimmerID=189160,latticeID=187634,}, -- Ambystan Darter
+   [189365] = {moteCost=400,glimmerID=189163,latticeID=189151,}, -- Fierce Scarabid
+   [189374] = {moteCost=250,glimmerID=189166,latticeID=189147,}, -- Leaping Leporid
+   [189376] = {moteCost=150,glimmerID=189167,latticeID=189145,}, -- Microlicid
+   [189368] = {moteCost=350,glimmerID=189164,latticeID=189148,}, -- Multichicken
+   [187734] = {moteCost=350,glimmerID=189157,latticeID=189153,}, -- Omnipotential Core
+   [189373] = {moteCost=450,glimmerID=189159,latticeID=187636,}, -- Prototickles
+   [187733] = {moteCost=250,glimmerID=189169,latticeID=189153,}, -- Resonant Echo
+   [189378] = {moteCost=450,glimmerID=189168,latticeID=189145,}, -- Shelly
+   [189370] = {moteCost=400,glimmerID=189162,latticeID=189146,}, -- Stabilized Geomental
+   [189372] = {moteCost=400,glimmerID=189165,latticeID=187636,}, -- Terror Jelly
+   [187798] = {moteCost=350,glimmerID=189158,latticeID=189156,}, -- Tunnel Vombata
+   [189366] = {moteCost=200,glimmerID=189161,latticeID=189148,}, -- Violent Poultrid
+   [189379] = {moteCost=150,glimmerID=189170,latticeID=189155,}, -- Viperid Menace
+   [187632] = {moteCost=450,glimmerID=189174,latticeID=189156,}, -- Adorned Vombata
+   [187670] = {moteCost=400,glimmerID=189179,latticeID=189145,}, -- Bronze Helicid
+   [187663] = {moteCost=400,glimmerID=189179,latticeID=189154,}, -- Bronzewing Vespod
+   [187665] = {moteCost=500,glimmerID=189176,latticeID=189154,}, -- Buzz
+   [187630] = {moteCost=400,glimmerID=189172,latticeID=189156,}, -- Curious Crystalsniffer
+   [187631] = {moteCost=450,glimmerID=189175,latticeID=189156,}, -- Darekened Vombata
+   [187638] = {moteCost=450,glimmerID=189178,latticeID=187635,}, -- Deathrunner
+   [187666] = {moteCost=400,glimmerID=189180,latticeID=189150,}, -- Desertwing Hunter
+   [187664] = {moteCost=450,glimmerID=189173,latticeID=189154,}, -- Forged Spiteflyer
+   [187677] = {moteCost=400,glimmerID=189171,latticeID=189152,}, -- Genesis Crawler
+   [187683] = {moteCost=400,glimmerID=189171,latticeID=187633,}, -- Goldenplate Bufonid
+   [190580] = {moteCost=500,glimmerID=189172,latticeID=190388,}, -- Heartbound Lupine
+   [187679] = {moteCost=500,glimmerID=189176,latticeID=189152,}, -- Ineffable Skitterer
+   [187667] = {moteCost=350,glimmerID=189175,latticeID=189150,}, -- Mawdapted Raptora
+   [187639] = {moteCost=400,glimmerID=189176,latticeID=187635,}, -- Pale Regal Cervid
+   [188809] = {moteCost=400,glimmerID=189178,latticeID=187633,}, -- Prototype Leaper
+   [187668] = {moteCost=450,glimmerID=189173,latticeID=189150,}, -- Raptora Swooper
+   [188810] = {moteCost=350,glimmerID=189174,latticeID=187633,}, -- Russet Bufonid
+   [187672] = {moteCost=350,glimmerID=189177,latticeID=189145,}, -- Scarlet Helicid
+   [187669] = {moteCost=500,glimmerID=189172,latticeID=189145,}, -- Serenade
+   [187641] = {moteCost=300,glimmerID=189175,latticeID=187635,}, -- Reins of the Sundered Zerethsteed
+   [187678] = {moteCost=450,glimmerID=189177,latticeID=189152,}, -- Tarachnid Creeper
+   [187671] = {moteCost=300,glimmerID=189178,latticeID=189145,}, -- Unsuccessful Prototype Fleetpod
+   [187660] = {moteCost=400,glimmerID=189180,latticeID=189154,}, -- Vespoid Flutterer
+}
+wipe(zTable)
+for k, v in pairs (vZMS_Synthesis) do
+   local kName, kLink = GetItemInfo(k)
+   local mName, mLink = GetItemInfo(vZMS_Motes)
+   local lName, lLink = GetItemInfo(v["latticeID"])
+   local gName, gLink = GetItemInfo(v["glimmerID"])
+   
+   tinsert(zTable,(
+         (kLink ~= nil and kLink or "")..
+         (mLink ~= nil and mLink.." "..GetItemCount(vZMS_Motes,true).." / "..v["moteCost"] or "")..
+         (lLink ~= nil and lLink.." "..GetItemCount(v["latticeID"],true) or "")..
+         (gLink ~= nil and gLink.." "..GetItemCount(v["glimmerID"],true) or "")
+   ))
+end
+vQ_ResultArea:SetText(table.concat(zTable,"\n"))

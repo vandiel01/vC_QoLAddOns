@@ -1,0 +1,9 @@
+To Do/ToFix
+-------------------
+Legacy
+-------------------
+-- To Do, ** Completed
+
+-- Finish Adding All Hearthstones to Random
+-- Fix Checkbox Toggling with Certain SubMenu
+-- Move Hearthstone to attach Minimap (or Titan Bar)

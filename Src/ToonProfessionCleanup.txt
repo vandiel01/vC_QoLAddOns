@@ -1,0 +1,121 @@
+----------------------------------------------------------------------------
+-- Alliance Korgath Van
+----------------------------------------------------------------------------
+Digglebear, Korgath, Player-1168-09AC6459, 911, 8441, Professions, 95
+Evesec, Korgath, Player-1168-09AC2D20, 2071, 8769, Professions, 138
+Halim, Korgath, Player-1168-09AC33E2, 1522, 8078, Professions, 164
+Hellbilly, Korgath, Player-1168-09ABF7B6, 888, 9406, Professions, 165
+Mayland, Korgath, Player-1168-09AC0B4E, 1698, 7185, Professions, 242
+Numinex, Korgath, Player-1168-0A9CC91B, 860, 8396, Professions, 5
+Semtex, Korgath, Player-1168-09ABF7C0, 970, 8001, Professions, 73
+Vandiel, Korgath, Player-1168-09AC08E4, 2561, 6811, Professions, 44
+Vandiem, Korgath, Player-1168-09AC4995, 913, 7862, Professions, 92
+Vandien, Korgath, Player-1168-09AC2D1A, 1688, 6933, Professions, 127
+Vashlam, Korgath, Player-1168-09AC3446, 958, 6746, Professions, 23
+Vrondir, Korgath, Player-1168-09AC63BA, 2405, 8660, Professions, 170
+Xmogforlife, Korgath, Player-1168-09AC649C, 834, 6975, Professions, 5
+Zukio, Korgath, Player-1168-09AC33E5, 1845, 7920, Professions, 104
+----------------------------------------------------------------------------
+-- Alliance Korgath Kim
+----------------------------------------------------------------------------
+Qawaiianne, Korgath, Player-1168-09A6FBD5, 845, 6648, Professions, 5
+Aladia, Korgath, Player-1168-0A809DDE, 836, 9411, Professions, 5
+Crystallish, Korgath, Player-1168-09A4F7E9, 851, 8383, Professions, 5
+Kynre, Korgath, Player-1168-0A809DDA, 843, 8264, Professions, 5
+Aasterinian, Korgath, Player-1168-0ABC0C1A, 835, 8520, Professions, 5
+----------------------------------------------------------------------------
+-- Alliance Korgath Annie
+----------------------------------------------------------------------------
+Krstina, Korgath, Player-1168-0AAC4F39, 1581, 7998, Professions, 117
+Skyicemage, Korgath, Player-1168-0AAC4E75, 931, 6843, Professions, 102
+Opria, Korgath, Player-1168-0AAC4E86, 1170, 9277, Professions, 165
+Amason, Korgath, Player-1168-0AAC4EC7, 904, 8355, Professions, 117
+Kryala, Korgath, Player-1168-0AAC52E8, 836, 8913, Professions, 5
+Vanassa, Korgath, Player-1168-0AAC4E95, 933, 8491, Professions, 94
+Darktadmill, Korgath, Player-1168-0AAC5273, 869, 7139, Professions, 91
+Frozentoon, Korgath, Player-1168-0AAC5280, 850, 8092, Professions, 5
+Maybook, Korgath, Player-1168-0AAC4E88, 912, 9669, Professions, 232
+Linzeysong, Korgath, Player-1168-0AAC52CB, 866, 7925, Professions, 92
+Crystalpearl, Korgath, Player-1168-0AAC5296, 866, 8911, Professions, 57
+Darlanwing, Korgath, Player-1168-0AAC5279, 932, 8982, Professions, 92
+Chellysia, Korgath, Player-1168-0AAC527C, 870, 8443, Professions, 91
+Menosaychare, Korgath, Player-1168-0AAC5275, 905, 7388, Professions, 107
+Roseyice, Korgath, Player-1168-0AAC5261, 894, 6962, Professions, 231
+Nomahappy, Korgath, Player-1168-0AAC52D3, 860, 8344, Professions, 92
+Ravenicysong, Korgath, Player-1168-0AAC52F2, 834, 6900, Professions, 5
+Ravenicysong, Korgath, Player-1168-0AAC52F2, 834, 6900, Professions, 5
+----------------------------------------------------------------------------
+-- Akama Kim
+----------------------------------------------------------------------------
+Hellbilly, Akama, Player-84-0A7C9B73, 834, 9920, Professions, 5
+Semtey, Akama, Player-84-0A814098, 838, 8481, Professions, 5
+Semtez, Akama, Player-84-0A81408F, 838, 8313, Professions, 5
+----------------------------------------------------------------------------
+-- Horde Korgath Kim
+----------------------------------------------------------------------------
+Kjari, Korgath, Player-1168-0A5C44BA, 839, 9568, Professions, 5
+----------------------------------------------------------------------------
+-- Horde Exodar Van
+----------------------------------------------------------------------------
+Digglebear, Exodar, Player-52-0CB3D7CA, 836, 9072, Professions, 5
+Evesec, Exodar, Player-52-0CB36F76, 835, 8991, Professions, 5
+Halim, Exodar, Player-52-0CB36FAD, 836, 8407, Professions, 5
+Hellbilly, Exodar, Player-52-0CB37BBD, 1059, 10553, Professions, 167
+Mayland, Exodar, Player-52-0CB37BEF, 1010, 7025, Professions, 17
+Numinex, Exodar, Player-52-0D6B8467, 835, 8677, Professions, 5
+Semtex, Exodar, Player-52-0CB36EF2, 872, 8125, Professions, 8
+Vandiel, Exodar, Player-52-0CB36F08, 834, 7073, Professions, 5
+Vandiem, Exodar, Player-52-0CFD662B, 834, 8449, Professions, 5
+Vandien, Exodar, Player-52-0CFDD74F, 835, 7315, Professions, 9
+Vashlam, Exodar, Player-52-0CB378C0, 910, 7323, Professions, 56
+Vrondir, Exodar, Player-52-0CB3702D, 1165, 10398, Professions, 117
+Zukio, Exodar, Player-52-0D0B8827, 835, 8408, Professions, 5
+
+Stromymay, Altar of Storms, Player-78-0F364764, 834, 9884, Professions, 5
+Kristina, Greymane, Player-158-0BB5EDA7, 835, 8242, Professions, 5
+----------------------------------------------------------------------------
+-- Horde Exodar Annie
+----------------------------------------------------------------------------
+Kirstina, Exodar, Player-52-0D88C8B8, 838, 8368, Professions, 5
+Skyicytoon, Exodar, Player-52-0D890FC9, 834, 7146, Professions, 5
+Leing, Exodar, Player-52-0D9E68D8, 838, 8470, Professions, 5
+Maybrooke, Exodar, Player-52-0D9EF789, 834, 10041, Professions, 5
+Martkal, Exodar, Player-52-0DA7549D, 834, 8447, Professions, 5
+----------------------------------------------------------------------------
+-- Alliance Cairne Van
+----------------------------------------------------------------------------
+Digglebear, Cairne, Player-1168-0A60C270, 836, 8884, Professions, 5
+Evesec, Cairne, Player-1168-0A782E91, 834, 8834, Professions, 5
+Hellbilly, Cairne, Player-1168-0A6E866B, 835, 9885, Professions, 5
+Mayland, Cairne, Player-1168-0A5C1DBD, 836, 6641, Professions, 5
+Vandiem, Cairne, Player-1168-09ACC80D, 835, 8263, Professions, 5
+Vashlam, Cairne, Player-1168-0A7699D3, 834, 7210, Professions, 5
+Vrondir, Cairne, Player-1168-0A75509B, 836, 8827, Professions, 5
+Zukio, Cairne, Player-1168-0A95F4D2, 838, 7803, Professions, 5
+----------------------------------------------------------------------------
+-- Alliance Coilfang Van
+----------------------------------------------------------------------------
+Vandiel, Coilfang, Player-157-0BAC3EA5, 834, 6901, Professions, 5
+Mayland, Coilfang, Player-157-0BAC3EA2, 834, 6975, Professions, 5
+Vandien, Coilfang, Player-157-0BAC3EA9, 834, 7043, Professions, 5
+Vandiem, Coilfang, Player-157-0BAC3EAB, 834, 8263, Professions, 5
+Halim, Coilfang, Player-157-0BAC3ECA, 834, 8248, Professions, 5
+Zukio, Coilfang, Player-157-0BAC3EA4, 835, 8209, Professions, 5
+Vrondir, Coilfang, Player-157-0BAC3E9D, 834, 8827, Professions, 5
+Digglebear, Coilfang, Player-157-0BAC3EAD, 834, 8885, Professions, 5
+Evesec, Coilfang, Player-157-0BAC3EAA, 834, 8834, Professions, 5
+Hellbilly, Coilfang, Player-157-0BAC3E9B, 834, 9884, Professions, 5
+----------------------------------------------------------------------------
+-- Horde Draka Van
+----------------------------------------------------------------------------
+Vandiel, Draka, Player-113-0AAB1698, 834, 7109, Professions, 5
+Mayland, Draka, Player-113-0AAB1695, 834, 7155, Professions, 5
+Vandien, Draka, Player-113-0AAB1699, 834, 7254, Professions, 5
+Vandiem, Draka, Player-113-0AAB169C, 834, 8449, Professions, 5
+Halim, Draka, Player-113-0AAB169F, 834, 8455, Professions, 5
+Zukio, Draka, Player-113-0AAB1696, 835, 8416, Professions, 5
+Vrondir, Draka, Player-113-0AAB1693, 834, 9016, Professions, 5
+Digglebear, Draka, Player-113-0AAB169D, 834, 9064, Professions, 5
+Evesec, Draka, Player-113-0AAB169A, 834, 9011, Professions, 5
+Hellbilly, Draka, Player-113-0AAB1692, 834, 10087, Professions, 5
+

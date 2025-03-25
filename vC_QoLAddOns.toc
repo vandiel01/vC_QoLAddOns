@@ -1,0 +1,37 @@
+## Author: Vandiel-Korgath
+## Interface: 100207
+## Version: 1.0
+## Title: Van's QoL AddOns
+## IconTexture: Interface/Calendar/Holidays/Calendar_Fireworks
+## Notes: Quality of Life AddOns, Varieties of Things
+
+## OptionalDeps: AllTheThings
+## SavedVariables: vC_DB_GoldHoard, vC_DB_PlayerInfo, vC_DB_CraftOrders
+
+## Category-enUS: .Van's Quality of Life
+
+Src\vC_Data.lua
+Src\vC_Func.lua
+Src\vC_CVars.lua
+	#vC_QoLAddOns.lua
+
+Src\vC_MiniMap.lua
+Src\vC_GoldHoard.lua
+Src\vC_SimpleChat.lua
+Src\vC_AuctionSales.lua
+Src\vC_MarkingBar.lua
+Src\vC_SL_Anima.lua
+Src\vC_AHToons.lua
+Src\vC_JunkBox.lua
+Src\vC_PetBattle.lua
+Src\vC_Quests.lua
+Src\vC_CraftOrders.lua
+
+	#Src\vC_Mini_CurrRep.lua
+	#Src\vC_Top_Info_Bar.lua
+	#Src\vC_RandomHearth.lua
+
+Src\vC_Personal.lua
+
+Src\vC_TestBox.lua
+	#Src\vC_LookChoice.lua
