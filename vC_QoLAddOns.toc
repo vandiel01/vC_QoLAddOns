@@ -19,7 +19,6 @@ Src\vC_MiniMap.lua
 Src\vC_GoldHoard.lua
 Src\vC_SimpleChat.lua
 Src\vC_AuctionSales.lua
-Src\vC_MarkingBar.lua
 Src\vC_SL_Anima.lua
 Src\vC_AHToons.lua
 Src\vC_JunkBox.lua

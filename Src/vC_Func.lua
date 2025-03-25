@@ -17,7 +17,6 @@ vC_Run_Personal							= true			-- Personal ATT Window Adjustments
 	
 -- Forever Tweak
 vC_Run_AuctionSales						= true			-- Auction House Sales (Your Own Sales, if any)
-vC_Run_MarkingBar						= true			-- Marking/Ping Bar
 vC_Run_GoldHoard						= true			-- Send Excessive Gold To Main
 vC_Run_CVars							= true			-- List of Common CVars List
 vC_Run_SimpleChat						= true			-- Keep Chatframe Simple, BG, Chat in Certain Tabs
@@ -264,7 +263,6 @@ local vC_RegisterEvents = CreateFrame("Frame")
 	end
 	if ( e == "PLAYER_ENTERING_WORLD" ) then
 		--WorldMapFrame:HookScript("OnShow", vC_Reposition_WorldMap)			-- Reposition World Map
-		if ( vC_Run_MarkingBar ) then vC_MarkingBar() end					-- Marking Bar Toggle
 		if ( vC_Run_MiniMap ) then vC_GetZoneInfo(3,4) end					-- Update Zone, X,Y Location
 		--if ( vC_Run_RandomHearth ) then vC_HearthStone() end				-- Random Your Hearthstone!
 		--if ( vC_Run_LookChoice ) then vC_GetCovenantID() end				-- Get Covenant ID since it can only be pulled after loaded
@@ -297,9 +295,6 @@ local vC_RegisterEvents = CreateFrame("Frame")
 	--end
 	
 	-- Group/Raid Events
-	if ( e == "GROUP_ROSTER_UPDATE" ) then
-		--if ( vC_Run_MarkingBar ) then vC_MarkingBar() end					-- Marking Bar Toggle
-	end
 	if ( e == "LFG_PROPOSAL_DONE" or e == "LFG_UPDATE" ) then
 		vC_LeaveGroupIcon(e)
 	end
